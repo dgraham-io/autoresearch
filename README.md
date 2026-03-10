@@ -84,7 +84,7 @@ uv pip install flash-attn --no-build-isolation
 - No "no kernel image" errors, no SDPA fallback needed
 - Full RTX 5090 performance unlocked
 
-Tested March 2026 with PyTorch nightly cu128 + flash-attn 2.8.3 (source-built).\
+Tested March 2026 with PyTorch nightly cu128 + flash-attn 2.8.3 (source-built).
 
 
 
